@@ -54,3 +54,4 @@ npx expo start --web
    - **Medium Urgency**: Highlights high-yield topics with `MUST ASK` badges and condensed bullet notes.
    - **Low Urgency**: Full comprehensive textbook notes and complete video lectures.
 3. **AI Video Script Generator & Content Compression**: CPU-only deterministic extractive summarization and short-form video generation.
+# Hack_
