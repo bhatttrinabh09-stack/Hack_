@@ -55,3 +55,4 @@ npx expo start --web
    - **Low Urgency**: Full comprehensive textbook notes and complete video lectures.
 3. **AI Video Script Generator & Content Compression**: CPU-only deterministic extractive summarization and short-form video generation.
 # Hack_
+# Hack_
