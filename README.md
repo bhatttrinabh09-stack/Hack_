@@ -1524,10 +1524,4 @@ Progress
 
 The architecture keeps the **student-facing request path fast and predictable**, while computationally expensive AI operations are handled asynchronously or ahead of time.
 
----
 
-## Related Documentation
-
-- `FRONTEND_README.md` — Frontend implementation
-- `BACKEND_README.md` — Backend implementation
-- `ML_README.md` — ML / AI implementation
